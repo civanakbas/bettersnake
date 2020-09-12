@@ -3,7 +3,6 @@ import random
 from sys import exit
 import algorithms
 
-#test2
 
 class Node(object):
     def __init__(self,row,col,width):       
